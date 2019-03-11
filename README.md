@@ -1,4 +1,4 @@
-# MelissaProgram
+# EquianProgram
 Program for transforming load files to the correct format for loading into Stratacare
 
 To run the program:
